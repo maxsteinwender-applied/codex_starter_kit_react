@@ -48,7 +48,7 @@ For coding track:
 ```text
 /start
 project_track: coding
-stack: vue
+stack: react
 Kick off a new project for a team task manager.
 Run the full project start checklist and ask only missing mandatory questions.
 ```
